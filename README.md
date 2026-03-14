@@ -78,8 +78,8 @@ Me chamo João Henrique Panizza Silva, tenho 19 anos e sou natural de São Paulo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPanizza&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=JoaoPanizza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&v=2" 
+/>
 
 <img 
       align="left" 
